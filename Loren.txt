@@ -1,1 +1,3 @@
-Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos. O Lorem Ipsum tem sido a simulação de texto padrão da indústria tipográfica e de impressos desde o século XVI,
+Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos. 
+O Lorem Ipsum tem sido a simulação de texto padrão da indústria tipográfica e de
+ impressos desde o século XVI
